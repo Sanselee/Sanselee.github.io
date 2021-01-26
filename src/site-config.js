@@ -1,4 +1,4 @@
-const name = '黎闪',
+const name = 'Sanselee',
     repo = 'Sanselee.github.io'
 
 module.exports = {
