@@ -1,5 +1,5 @@
-const name = 'yunyuyuan',
-    repo = 'yunyuyuan.github.io'
+const name = '黎闪',
+    repo = 'Sanselee.github.io'
 
 module.exports = {
     owner: name,
